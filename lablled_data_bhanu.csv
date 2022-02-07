@@ -1,0 +1,1049 @@
+﻿label,target,text
+header,3,PROPERTY |--| LIMIT | -- |--| -- | UNITS | -- | TEST METHOD
+irrelevant,5,|--|  | -- | -- | -- |--| -- |
+irrelevant,5,1. Appearance: | Clear viscous liquid | -- |--| -- | -- |--| -- |
+irrelevant,5,| free from suspended matters | -- | -- | -- | -- |--| -- |
+solid_content,13,2.Non Volatile |--| 54 -56 |--|  | -- | % |--| PCPL/FTM/009
+viscosity,2,3.Viscosity at 40 % |--| 65 -75 |--|  | -- | Sec/B4/30 ÂºC | -- | PCPL/FTM/018
+irrelevant,5,in MTO |--|  |--|  | -- |--| -- |
+Acid,0,4.Acid Value |--| 15 max |--|  | -- | mg/KOH/gm |--| PCPL/FTM/005
+irrelevant,5,5 .Colour |--| 7 max |--| -- | -- | Gardner | -- | PCPL /FTM/004
+specific_gravity,14,6.Sp.gr at 30C |--| 0.92 -0.94 |--| -- | -- |--| -- | PCPL/FTM/021A
+Hydroxyl,4,7..Hydroxyl Value |--| 50-56 |--|  | -- | Mg/KOH /gm | -- | PCPL/FTM/023
+irrelevant,5,8.MTO Tol |--| No turbity at !:10 MTO | -- | -- |--|  | -- | PCPL/FTM/029
+irrelevant,5,9.Film test ( Air drying ) | -- |--| -- |--|  |--| -- | PCPL/FTM/003A
+irrelevant,5,Method of film | checking : |--|  |--| -- |--|  |
+irrelevant,5,Mix in the following proportions and adjust visc to 50-60sec/B4/30*C with MTO | -- | -- | -- | -- | -- | -- | -- | --
+irrelevant,5,"and allow to mature for overnight. Pour the mixture on a clean ,dry glass plate and .. | -- | -- | -- | -- | -- | -- | -- | --"
+irrelevant,5,allow to dry vertically. | -- |--| -- |--| -- |--|  |
+irrelevant,5,"and allow to mature for overnight. Pour the mixture on a clean ,dry glass plate and | -- | -- | -- | -- | -- | -- | -- | --"
+irrelevant,5,allow to dry vertically. | -- |--| -- |--| -- |--| -- |
+irrelevant,5,Assess drying characteristics as per std. procedure. | -- | -- | -- | -- |--|  | -- |
+irrelevant,5,Resin | 60.0 gm |--| -- | Surface dry | -- | 1 hr max | -- |
+irrelevant,5,"CO ( 3 %) | 1.0 gm |--| -- | Tack free | -- | 4 hrs , max |--|"
+irrelevant,5,Zir (6%) | 1.0 gm |--|  | Hard dry | -- | O/N |--|
+irrelevant,5,Calcium (2%) | 1. gm |--|  |--| -- |--|  |
+irrelevant,5,MTO to adujust visc | -- |--|  |--| -- |--| -- |
+irrelevant,5,10.Flash Point |--| 34 |--|  | -- | ÂºC | -- | PCPL/FTM/006
+irrelevant,5,|--|  |--|  | -- |--| -- |
+irrelevant,5,|--|  | -- |--| -- |--| -- |
+irrelevant,5,| Mesh ASTM | Size Micron |--|  | Method
+irrelevant,5,Percentage Retained on Individual Sieve | 100 | 150 | - | % | Dry Sieve
+irrelevant,5,-- | 200 | 75 | - | % | --
+irrelevant,5,-- | 325 | 45 | - | % | --
+irrelevant,5,-- | 400 | 38 | - | % | --
+irrelevant,5,-- | 450 | 32 | 0.01 | % | --
+irrelevant,5,-- | 625 | 20 | 0.3 | % |
+particle_size_d90,11,"Particle Size, D90 |--|  | 15.1 | Î¼m |"
+particle_size_d50,10,"Average Particle Size, D50 |--|  | 5.0 | Î¼m |"
+particle_size_d10,9,"Particle Size, D10 |--|  | 1.2 | Î¼m |"
+irrelevant,5,"Powder Brightness (ISO) |--|  | 87.0 |--| Spectrophotometer, CM-2500d"
+irrelevant,5,Oil Absoprtion |--|  | 25.8 | g/100gms | ISO 787-5
+irrelevant,5,Electrical Conductivity |--|  | 210 | ÂµS/cm |
+specific_gravity,14,Specific Gravity | -- |--| 2.61 | g/cm3 |
+irrelevant,5,Moisture Content | -- |--| 0.2 | % | ASTM C-566
+density,1,"Bulk Density, loose | -- | -- | 0.43 | g/cm3 | ISO 787-11"
+irrelevant,5,Hardness | -- | -- | 6.0 | Mohs |
+ph,12,pH (20% slurry) | -- | -- | 10.1 | - | ISO 787-9
+irrelevant,5,SiO2 | 66.99 | %
+irrelevant,5,Al2O3 | 17.63 | %
+irrelevant,5,K2O | 11.50 | %
+irrelevant,5,Na2O | 3.12 | %
+irrelevant,5,CaO | 0.21 | %
+irrelevant,5,MgO | 0.11 | %
+irrelevant,5,Fe2O3 | 0.04 | %
+irrelevant,5,TiO2 | 0.03 | %
+irrelevant,5,L.O.I (1000Â°C) | 0.37 | %
+irrelevant,5,fastness to solvents butyl acetate | ethanol | methylethyl ketone | water
+irrelevant,5,1 | 1 â€“ 2 | 1 | 5
+irrelevant,5,white spirit | xylene |--|
+irrelevant,5,4 â€“ 5 | 1 |--|
+irrelevant,5,suitability for industries | -- | -- | -- | -- | --
+irrelevant,5,automotive | general industrial | coil | powder | wood | decorative
+irrelevant,5,O | O | O | O |--| O
+irrelevant,5,explanation of symbols suitable O potentially suitable O not suitable | -- | -- | -- | -- | --
+header,3,Property | Range | Unit | GAP
+irrelevant,5,Appearance | White translucent liquid | -- | 0059
+solid_content,13,Total solids w/w | 38.0 â€“ 40.0 | % | 0001
+ph,12,pH | 6.5 â€“ 8.0 |--| 0016
+viscosity,2,Visc. Brookfield 25 C | Max. 400 | mPa.s | 0020
+header,3,Property | Value | Unit | GAP
+mfft,6,MFFT | 60 | O C | 0011
+density,1,Density 20 C O | Â± 1.04 | Kg/L | 0006
+irrelevant,5,Free monomer | Max. 250 | ppm | 0118
+irrelevant,5,Neutralizing agent triethylamine | Â± 0.9 | % |
+irrelevant,5,VOC (theoretical) | Â± 1 | % |
+irrelevant,5,Preservative chloro-2-methyl-3(2H)-isothiazolone (CMIT) | GAP 0222 | Value 10.5 | Unit ppm
+irrelevant,5,2-methyl-3(2H)-isothiazolone (MIT | -- | 3.5 | ppm
+irrelevant,5,-- | -- | -- | --
+irrelevant,5,â€¢ | epoxy esters
+irrelevant,5,â€¢ | alkyd resins of any kind
+irrelevant,5,â€¢ | linseed oil - stand oil
+density,1,density at 20 Â°C (68Â°F) | 0.897 g/cm3 ~
+solid_content,13,solid content | 21 % ~
+irrelevant,5,refractive index at 20 Â°C | 1.412 ~
+irrelevant,5,Wall finishes | 100 | -- | -- | -- |--|  |--|  |--|  |--|  |--|  |--| --
+irrelevant,5,-- |--|  |--|  |--|  |--|  |--|  |--|  |--|  |--|
+irrelevant,5,Emulsion and mineral bound wall - finishes | [% ] |--|  |--|  |--|  |--|  |--|  |--|  |--|  |
+irrelevant,5,Paints | 8 0 1-Q 3 |--|  |--|  |--|  |--|  |--|  |--|  |--|  |
+irrelevant,5,Structured paints - |--|  |--|  |--|  |--|  |--|  |--|  |--|  |--|
+irrelevant,5,Plastics | 6 0 |--|  |--|  |--|  |--|  |--|  |--|  |--|  |
+irrelevant,5,PVC plasticized/plastisols - Floor coverings | distribution |--|  |--|  |--|  |--|  |--|  |--|  |--|  |
+irrelevant,5,Synthetic marble | 4 0 |--|  |--|  |--|  |--|  |--|  |--|  |--|  |
+irrelevant,5,Polymer concrete | ulative |--|  |--|  |--|  |--|  |--|  |--|  |--|  |
+irrelevant,5,Terrazzo |--|  |--|  |--|  |--|  |--|  |--|  |--|  |--|
+irrelevant,5,ADDITIONAL APPLICATIONS: | 2 0 Cum |--|  |--|  |--|  |--|  |--|  |--|  |--|  |
+irrelevant,5,Household cleansers | 0 |--|  |--|  |--|  |--|  |--|  |--|  |--|  |
+irrelevant,5,|--|  |--|  |--|  |--|  |--|  |--|  |--|  |--|
+irrelevant,5,Polishing creams | 1000 | -- |--|  |--|  | 100 |--|  |--| 1 | 0 |--|  |--| 1
+particle_size,8,Crack fillers |--|  |--|  |--| particle |--|  | size | in | m | icrons |--|  |--|
+header,3,Property | Value | Units | Method
+solid_content,13,"Non-volatiles (1g, 125Â°C, 1h) | 74 â€“ 76 | % | ISO 3251 1)"
+irrelevant,5,Colour (Lico 100) | â‰¤ 8.0 | Gardner | ISO 4630
+viscosity,2,"Viscosity (MCR301, 23Â°C, 10 s-1) | 2.9 â€“ 3.6 | Paâˆ™s | ISO 3219"
+viscosity,2,Body tube viscosity | 23 â€“ 28 | s | RTM2A 2)
+Acid,0,Acid value (on solids) | 5 â€“ 10 | mg KOH/g | ISO 2144 3)
+header,3,Technical data | --
+irrelevant,5,Appearance | Clear yellow
+irrelevant,5,Odour | Characteristic
+density,1,Density | 1.03 + 0.01
+ph,12,pH | 2-3
+irrelevant,5,Solubility | Slightly soluble in water
+header,3,Labelling | Use guidelines
+header,3,Typical Property | Method | Unit | Value
+particle_size,8,"Particle size | Measured with ""Laser Diffraction Technique"" | Âµm | approx. 0.18"
+mfft,6,Minimum film forming temperature (MFFT) | DIN ISO 2115 | ËšC | 0
+tg,17,Glass transition temperature (Tg) | DIN 53 765; DSC; heating rate 10 K/min | ËšC | approx. 11
+density,1,Density | SS-ISO 1675 | g/cm3 | approx. 1.07
+irrelevant,5,"Filmï¹¡Appearance |--| Slightly opaque, | soft, tough"
+irrelevant,5,Film hardness |--| Ks | approx. 10
+header,3,Specification | Method | Unit | Value
+solid_content,13,Solids content | DIN ISO 3251 2h; 105ËšC | % | 55 â€“ 57
+viscosity,2,Brookfield viscosity | DIN EN ISO 2555; spindle nr.3; | mPa.s |
+viscosity,2,"-- | 20 rpm; 25ËšC; Brookfield viscometer RVT | -- | 1,000 â€“ 4,000"
+irrelevant,5,-- | -- | -- | --
+ph,12,pH value | DIN ISO 976 |--| 4 â€“ 5
+irrelevant,5,ITEM | Color quartz sands
+irrelevant,5,CaCO3 | 98%
+irrelevant,5,CaO | 0.3%
+irrelevant,5,Property | Unit | Grade: HS 10-20 | Grade: 60# | -- | Grade: HS 40-80 | Grade :HS 80-120
+particle_size,8,Particle size | Âµm | 900-2000 | 425-1180 | -- | 180-300 | 125-180
+irrelevant,5,Pore Volume | Ml/g |--|  |--| 0.383 |
+irrelevant,5,Oil Absorption Value | g/100g |--|  |--| ------ |
+irrelevant,5,Surface Treatment | ------ |--|  | white sand | -- |
+irrelevant,5,"Drying Loss(105â„ƒ,2hr) | % |--|  | â‰¤0.5 | -- |"
+irrelevant,5,"Ignition Loss(1000â„ƒ,2hr) | % |--|  | â‰¤1.5 | -- |"
+ph,12,"PH Value(20â„ƒ,50g/l water) | ------ |--|  | 6~8 | -- |"
+irrelevant,5,MgO | 0.21%
+irrelevant,5,MgCO3 | 0.60%
+irrelevant,5,SiO2 | 0.51%
+irrelevant,5,Fe2O3 | 0.075%
+irrelevant,5,Al2O3 | 0.052%
+header,3,Properties | Norms | Results
+irrelevant,5,Appearance / colour | Visual | Clear liquid
+irrelevant,5,VOC | ISO 11890-1 | 594 g/l
+density,1,Density | ISO 2811-1 | 0.89 Â± 0.05
+irrelevant,5,Standard | MAP internal standard 001/NI or equivalent
+header,3,Property | Value | Unit | Method1
+solid_content,13,Total Solids | 42.0 | % | ISO 3251
+ph,12,pH | 8.0 |--| ISO 976
+viscosity,2,Viscosity | 500 | mPas | ISO 2555
+particle_size,8,Particle Size | 0.1 | microns | Internal Method
+mfft,6,Minimum Film Forming Temperature (MFFT) | 12 | Â°C | ISO 2115
+specific_gravity_wet,16,Specific Gravity (Dispersion) | 1.03 | g/cmÂ³ |
+specific_gravity_dry,15,Specific Gravity (Dry Polymer) | 1.08 | g/cmÂ³ |
+irrelevant,5,Origin | Italy
+irrelevant,5,Safety | Please refer to the specific Material Safety Data Sheet. Close the containers after use.
+irrelevant,5,"Specifications | Appearance: light hazel powder Tannin content (on dry matter): 95% min. Moisture: 7% max. pH (1%): 2,6 â€“ 3,0 Ashes: 1,0 % max. Colour Gardner: 12 max. Solubility: soluble in water and alcohol"
+irrelevant,5,"Usage Instruction | It is advisable to dissolve the tannic acid into warm water at temperature between 40Â° and 50Â°C under vigorous stirring, then cool the solution at room temperature. For the handling we suggest these materials: steel, plastic, glass or ceramic. Avoid the contact between tannins and rust or iron surface. In case of contact, the tannins could form an insoluble black precipitate."
+irrelevant,5,Storage | SILVATECH T80 shelf life is longer than five years. Store in a cool dry place. Avoid prolonged exposure to the light. Avoid freeze.
+irrelevant,5,Packaging | 25 Kg cardboard box
+irrelevant,5,-- | --
+irrelevant,5,Appearance: | Milky-white liquid
+solid_content,13,Solids content: | 38 Â± 0.5%
+mfft,6,Minimum Film-Formation Temperature (MFFT): | ~60Â°C
+ph,12,pH: | ~8.4
+viscosity,2,"Viscosity (Brookfield LVT, #1 spindle, 60 rpm): | < 100 cP"
+density,1,Density @ 25Â°C (Lb./U.S. gal.): | 8.9
+specific_gravity,14,Specific gravity: | 1.07
+irrelevant,5,Ionic charge: | Anionic
+irrelevant,5,Freeze/thaw stability: | â‰¥ 3 cycles
+irrelevant,5,Material in Proper Order of Addition | Weight Percent | LBS/ 100 US GAL | Gallons/ 100 US GAL
+irrelevant,5,Water | 33.24 | 283.07 | 33.91
+irrelevant,5,KATHONâ„¢ CG/ICP Preservative | 0.04 | 0.33 | 0.04
+irrelevant,5,Capstone FS-65 fluorosurfactant1 | 0.05 | 0.41 | 0.05
+irrelevant,5,CARBITOLâ„¢ Solvent-low gravity | 5.54 | 47.16 | 5.71
+irrelevant,5,Eastman TXIB additive | 1.43 | 12.15 | 1.54
+irrelevant,5,Tri(butoxyethyl) phosphate plasticizer | 2.61 | 22.23 | 2.62
+irrelevant,5,DURAPLUSâ„¢ 2 polymer (38%) | 48.43 | 412.44 | 47.42
+irrelevant,5,RHOPLEXâ„¢ 1531C emulsion (38%) | 2.85 | 24.26 | 2.76
+irrelevant,5,A-C 325N polyethylene polymer (35%)2 | 3.09 | 26.34 | 3.17
+irrelevant,5,Epolene E43N polypropylene polymer (40%)3 | 2.71 | 23.07 | 2.77
+irrelevant,5,Defoamer4 | 0.01 | 0.09 | 0.01
+irrelevant,5,Formulation Constants | Weight Solids: | 25.00%
+density,1,-- | Density: | 8.52
+irrelevant,5,-- | Polymer/ASE/Wax ratio: | 85/5/10
+irrelevant,5,Material in Proper Order of Addition | Weight Percent | LBS/100 US GAL | Gallons/100 US GAL
+irrelevant,5,Water | 33.90 | 289.54 | 34.69
+irrelevant,5,KATHONâ„¢ CG/ICP Preservative | 0.04 | 0.34 | 0.04
+irrelevant,5,Capstone FS-65 fluorosurfactant1 | 0.05 | 0.39 | 0.05
+irrelevant,5,CARBITOLâ„¢ Solvent-low gravity | 5.77 | 49.30 | 5.97
+irrelevant,5,Eastman TXIB additive | 1.46 | 12.43 | 1.58
+irrelevant,5,Tri(butoxyethyl) phosphate plasticizer | 3.25 | 27.78 | 3.28
+irrelevant,5,DURAPLUSâ„¢ 2 polymer (38%) | 44.21 | 377.63 | 42.91
+irrelevant,5,RHOPLEXâ„¢ 1531C emulsion (38%) | 2.76 | 23.60 | 2.68
+irrelevant,5,A-C 325N polyethylene polymer (35%)2 | 5.40 | 46.12 | 5.56
+irrelevant,5,Epolene E43N polypropylene polymer (40%)3 | 3.15 | 26.91 | 3.23
+irrelevant,5,Defoamer4 | 0.02 | 0.18 | 0.02
+irrelevant,5,Formulation Constants | Weight Solids: | 25%
+density,1,-- | Density: | 8.54
+irrelevant,5,-- | Polymer/ASE/Wax ratio: | 80/5/15
+irrelevant,5,Material in Proper Order of Addition | Weight Percent | LBS/100 US GAL | Gallons/100 US GAL
+irrelevant,5,Water | 46.50 | 394.46 | 47.26
+irrelevant,5,KATHONâ„¢ CG/ICP Preservative | 0.04 | 0.34 | 0.04
+irrelevant,5,Capstone FS-65 fluorosurfactant1 | 0.04 | 0.35 | 0.04
+irrelevant,5,CARBITOLâ„¢ Solvent-low gravity | 4.83 | 40.98 | 4.96
+irrelevant,5,Eastman TXIB additive | 1.24 | 10.56 | 1.34
+irrelevant,5,Tri(butoxyethyl) phosphate plasticizer | 2.28 | 19.32 | 2.28
+irrelevant,5,DURAPLUSâ„¢ 2 polymer (38%) | 42.25 | 358.41 | 41.21
+irrelevant,5,Epolene E43N polypropylene polymer (40%)3 | 0.85 | 7.24 | 0.87
+irrelevant,5,Defoamer4 | 0.01 | 0.08 | 0.01
+solid_content,13,Formulation Constants | Weight Solids: | 20%
+density,1,-- | Density: | 8.48
+irrelevant,5,-- | Polymer/ASE/Wax ratio: | 94/0/6
+irrelevant,5,Concentration of Pigment | Â±33%
+irrelevant,5,Form | Paste
+irrelevant,5,Colour | Teak
+irrelevant,5,Light Fastness* | Full shade : 7-8
+irrelevant,5,Acid Resistance* | 5
+irrelevant,5,Alkali Resistance* | 5
+irrelevant,5,Solvent Resistance* | 5
+irrelevant,5,-- | --
+header,3,Property | Typical Values
+irrelevant,5,"Appearance | Opaque, white to off-white liquid"
+solid_content,13,"Solids, by weight, % | 48.0"
+density,1,"Density (g/ml), wet | 1.05"
+ph,12,pH | 8.0
+mfft,6,"Minimum Film Formation Temperature, (Â± 2Â°C) | 29"
+viscosity,2,"Viscosity (Brookfield LV #3, 60 rpm), cps | < 700"
+irrelevant,5,Storage precautions | Protect from freezing
+irrelevant,5,Physical Appearance : | Medium Viscosity Liquid
+irrelevant,5,Chemical Component : | Aqueous copolymer dispersion
+irrelevant,5,Nature of Ionic charge : | Anionic/Nonionic
+solid_content,13,Solid Contents : | 50 % + 1 %
+viscosity,2,Viscosity : | 100 - 250 cP (at 25 oC)
+viscosity,2,"(Brookfield DV2T LV, spindle No 61, RPM 30) |"
+ph,12,pH Value : | 8.0 (at 25 oC)
+particle_size,8,Particle Size : | 0.1 Âµm - 0.5 Âµm
+irrelevant,5,"Film Appearance : | Clear, Transparent, Non tacky"
+tg,17,Glass Transition Temperature : | 11 â€“ 13 oC
+irrelevant,5,Miscibility with water : | Miscible in all proportions
+irrelevant,5,Frost Resistance : | Not frost resistant
+irrelevant,5,Free Monomer : | â‰¤ 0.5
+header,3,SPECIFICATIONS |--| SPECIFICATIONS SPEZIFIKATIONEN SPECIFICATIONS |
+header,3,SPEZIFIKATIONEN SPECIFICATIONS | -- | -- | --
+irrelevant,5,Amine value1 } mg KOH/g Aminzahll | ca 220 | Colour } Gardner Farbe | Max 7
+irrelevant,5,Indice dâ€™amine1 |--| Couleur |
+irrelevant,5,Active hydrogen eq.wt. |--| % Solids |
+irrelevant,5,H-Ã„quivalentgew. | ca 140 | % Feststoffgehalt | 80 Â± 1.0
+irrelevant,5,H dâ€™amine en pds. |--| % de matiÃ¨res solides |
+irrelevant,5,Addition levels |--| Flash point |
+irrelevant,5,} phr Zusatzmengen | ca 90 | }Â°C Flammpunkt | >100ËšC
+irrelevant,5,Doses dâ€™emploi conseillÃ©es |--| Point dâ€™Ã©clair |
+irrelevant,5,Viscosity |--| Solvent/Plasticiser | Water
+viscosity,2,} Pa.s 25Â°C ViskositÃ¤t | ca 23.0 | LÃ¶sungsmittel/Weichmacher | Wasser
+viscosity,2,ViscositÃ© |--| Solvant/Plastifiant | Eau
+density,1,Density } Dichte g/cm3 20Â°C | 1.06 |--|
+irrelevant,5,DensitÃ© |--|  |
+irrelevant,5,1 by titration 1 gem. Titration 1 volumÃ©trique |--|  |
+irrelevant,5,No. | Item/é¡¹ç›® | Control/ æŽ§åˆ¶èŒƒå›´ | Natural/ è‡ªç„¶åˆ†å¸ƒ | Test method/ æµ‹è¯•æ–¹æ³•
+irrelevant,5,1 | Size ï¼ˆçº§é…ï¼‰ |--|  | SOP-QR28
+irrelevant,5,| >0.425mm |--| 0 |
+irrelevant,5,| 0.25-0.425mm | <10% |--|
+irrelevant,5,| 0.18-0.25mm | 32%Â±10 |--|
+irrelevant,5,| 0.15-0.18mm |--| 15-25% |
+irrelevant,5,| 0.125-0.15mm |--| 15-25% |
+irrelevant,5,| 0.045-0.125mm |--| 10-19% |
+irrelevant,5,| <0.045mm | <1% |--|
+irrelevant,5,2 | Moisture contentï¼ˆå« æ°´çŽ‡ï¼‰ | % | <0.3% | SOP-QR02
+irrelevant,5,3 | Breakï¼ˆæ˜“ç¢Žæ€§ï¼‰ | % | <3% | SOP-QR05
+irrelevant,5,4 | Flowabilityï¼ˆæµåŠ¨æ€§ï¼‰ | second | 110g <5.5 sec | SOP-QR06
+specific_gravity,14,5 | Specific gravityï¼ˆæ¯” é‡ï¼‰ | g/cm3 | <3 | SOP-QR04
+density,1,6 | Bulk densityï¼ˆå®¹é‡ï¼‰ | g/cm3 | 1.65Â±0.2 | SOP-QR03
+irrelevant,5,7 | Color consistency ï¼ˆé¢œè‰²è‡´æ€§ï¼‰ | Â± | standardÂ±1 | SOP-QR13
+irrelevant,5,No/ åºå· | Code/å½©ç ‚ç¼–ç  | Color/é¢œè‰² | -- | Size/è§„æ ¼ | Pigment CAS no
+irrelevant,5,1 | CSCL 08-860-N | å†·æ©˜çº¢ | Orange | 80-120 mesh | 1332-37-2/12737-27-8
+irrelevant,5,2 | CSCL 08-481-N | å†·é¸¡è¡€çº¢ | Blood Red | 80-120 mesh | 1332-37-2/12737-27-8
+irrelevant,5,3 | CSCL 08-110-N | å†·ç°çŽ‰ | Grey Jade | 80-120 mesh | 12737-27-8/1345-16-0
+irrelevant,5,4 | CSCL 08-251-N | å†·çº¢æ£• | Red-Brown | 80-120 mesh | 68187-51-9/68412-38-4
+irrelevant,5,5 | SCSCL 08-180-N | å†·é»‘ | Black | 80-120 mesh | 12737-27-8
+header,3,test-no. | properties | nominal value | unit | test method
+irrelevant,5,"1 | Lead | < 0,002 * | % | TI0091"
+irrelevant,5,"2 | Cadmium | < 0,0005 * | % | TI0091"
+irrelevant,5,"3 | Mercury | < 0,0001 * | % | TI0211"
+irrelevant,5,"4 | Arsenic | < 0,0001 * | % | TI0211"
+irrelevant,5,"5 | Selenium | < 0,0001 * | % | TI0211"
+irrelevant,5,"6 | Chromium | < 0,003 * | % | TI0091"
+irrelevant,5,"7 | Chromium (VI) | < 0,00005 * | % | TI0017"
+irrelevant,5,"8 | Copper | < 0,003 * | % | TI0091"
+irrelevant,5,"9 | Nickel | < 0,008 * | % | TI0091"
+irrelevant,5,"10 | Antimony | < 0,0001 * | % | TI0211"
+irrelevant,5,"11 | Barium | < 0,0005 * | % | TI0091"
+irrelevant,5,"12 | Manganese | < 0,010* | % | TI0097"
+irrelevant,5,"13 | Tin | < 0,001 * | % | TI0091"
+irrelevant,5,"14 | Zinc | < 0,040 * | % | TI0097"
+irrelevant,5,"15 16 | Iron Cobalt | < 0,15 * 0,0005 * | % % | TI0097 TI0091"
+header,3,insp. characteristic | specification | unit
+irrelevant,5,TI00001 2-coat lacquer | O.K. |
+solid_content,13,TI00004 pigment content / non volatile | 68.0 - 72.0 | %
+irrelevant,5,T100004 volatile content | 28.0 - 32.0 | %
+irrelevant,5,T100005 sieving < 40 um | 98.5 - 100.0 | %
+particle_size_d10,10,T100009 D 10 | 18.0 - 22.0 | um
+particle_size_d50,10,T100009 D 50 | 33.0 - 39.0 | um
+particle_size_d90,11,T100009 D 90 | 54.0 - 62.0 | um
+header,3,PHYSICAL AND CHEMICAL PROPERTIES | UNITS | LIMITS | GLASSVEN TEST METHODS | INTERNATIONAL METHODS
+irrelevant,5,SiO2 Content | % | 98 Min. | MIâ€“05 â€“033 | ISO 3262/19
+irrelevant,5,Loss on Drying (2 h at 105ÂºC) | % | 3.0 â€“ 6.0 | MIâ€“05-022 | ISO 787/2
+irrelevant,5,Loss on Ignition at 1050ÂºC | % | 4.0 â€“ 6.0 | MIâ€“05-022 | ISO 3262/19
+ph,12,pH value (5% Slurry) | - | 6.0 â€“ 7.5 | MIâ€“05-025 | ISO 787/9
+irrelevant,5,BET Surface Area | m2 /g | 170 â€“ 200 | MI-05-031 | ISO 5794/1
+irrelevant,5,DBP Oil Absorption | ml/100g | 280 â€“ 300 | MIâ€“05-029 | ASTM D281-95
+irrelevant,5,Sieve Residue on 400 mesh (Ëƒ 38 Âµm) | % | 0.1 Max. | MIâ€“05-028 | ISO 787/7
+irrelevant,5,Sieve Residue on 325 mesh (Ëƒ 45 Âµm) | % | 1.0 Max. | MIâ€“05-028 | ISO 787/7
+density,1,Tapped Density | g/l | 160 Max. | MI-05-027 | ISO 787/11
+particle_size,8,Average particle size (OMEC) | Âµm | 7 Max. | MI-05-032 | ISO 13320-1
+particle_size,8,Average particle size (Malvern) | Âµm | 9 â€“ 12 | MI-05-032 | ISO 13320-1
+viscosity,2,"Viscosity in sorbitol at 25Â°C, 10% solution | cPs | 2000 Min. | MIâ€“05-071 | -"
+irrelevant,5,Soluble Salts Content | % | 2.0 Max. | MIâ€“05-030 | ISO 787/13
+header,3,Component | Content
+irrelevant,5,B2O3 | 56.25 - 56.80%
+irrelevant,5,Equivalent H3BO3 | 99.92 - 100.89%
+irrelevant,5,SO4 | 300 ppm max.
+irrelevant,5,Cl | 5 ppm max.
+irrelevant,5,Fe | 4 ppm max.
+header,3,Size | Content
+irrelevant,5,+1.000 mm | 0.00% max.
+irrelevant,5,-0.125 mm | 45.00% min.
+irrelevant,5,ÃÂ®Â±Â°Â»Â®Â¬Â§ | -- | Ã­Ã“Â‡ ÃÂ»Â®Â¿Â³Â·Â½ Ã“Â·Â½Â®Â±Â­Â°Â¸Â»Â®Â»Â­ | -- | --
+irrelevant,5,-- | -- | Ã‰Ã³Ã®Ã¯Ã° | Ã‰Ã³Ã¬Ã¯Ã° | Ã‰Ã³ÃªÃ¯Ã°
+irrelevant,5,ÃÂ¿Â®Â¬Â·Â½Â´Â» Â­Â·Â¦Â» (microns) | Ã§Ã° th Percentile | Ã¯Ã® | Ã®Ã¯ | Ã­Ã®
+irrelevant,5,-- | Ã«Ã° th Percentile | Ãª | Ã§ | Ã¯Ã­
+irrelevant,5,-- | Ã¯Ã° th Percentile | Ã® | Ã® | Ã®
+irrelevant,5,Ã‘Â·Â´ Â¿Â¾Â­Â±Â®Â°Â¬Â·Â±Â²Ã¶ |--| Ã¬Ãª | Ã¬Ã¬ | Ã®Ã¨
+irrelevant,5,ÃÂ®Â±Â°Â»Â®Â¬Â§ | Ã­Ã“Â‡ ÃÂ»Â®Â¿Â³Â·Â½ Ã“Â·Â½Â®Â±Â­Â°Â¸Â»Â®Â»Â­
+irrelevant,5,ÃŒÂ®Â«Â» Â¼Â»Â²Â­Â·Â¬Â§ (g/cc) | 2.4 (20.0 lbs/gal)
+irrelevant,5,ÃžÂ«Â´Âµ Â¼Â»Â²Â­Â·Â¬Â§ (g/cc) | 1.5 (12.6 lbs/gal)
+irrelevant,5,"Ã‰Â¸Â·Â¬Â»Â²Â»Â­Â­ (""L"" Value) | 90+ (Hunter L,a,b scale)"
+irrelevant,5,"ÃÂ®Â«Â­Â¸ Â­Â¬Â®Â»Â²Â¹Â¬Â¸Ã´ Ã¨Ã°Ã» Â­Â«Â®ÂªÂ·ÂªÂ¿Â´ Â¾Â§ ÂªÂ±Â´Â«Â³Â» (psi) | > 4,200 kg/cm (>60,000 psi) Ã®"
+irrelevant,5,Â°Ã˜ (at 5 wt% loading in water) | 9.0 - 12.0
+irrelevant,5,Ã˜Â¿Â®Â¼Â²Â»Â­Â­ | 6 (Mohs scale)
+irrelevant,5,"ÃÂ±ÂºÂ¬Â»Â²Â·Â²Â¹ Â°Â±Â·Â²Â¬ | 1,020ÂºC (1,870ÂºF)"
+irrelevant,5,ÃŽÂ»ÂºÂ®Â¿Â½Â¬Â·ÂªÂ» Â·Â²Â¼Â»Â¨Ã¦ ÃÂ®Â»Â¼Â±Â³Â·Â²Â¿Â²Â¬ | 1.53
+irrelevant,5,ÃœÂ·Â»Â´Â»Â½Â¬Â®Â·Â½ Â½Â±Â²Â­Â¬Â¿Â²Â¬ | 3.19
+irrelevant,5,ÃÂ®Â±Â°Â»Â®Â¬Â§ | Ã­Ã“Â‡ ÃÂ»Â®Â¿Â³Â·Â½ Ã“Â·Â½Â®Â±Â­Â°Â¸Â»Â®Â»Â­
+irrelevant,5,ÃÂ¸Â¿Â°Â» | Uniquely shaped fillers
+irrelevant,5,ÃÂ±Â³Â°Â±Â­Â·Â¬Â·Â±Â² | Alkali Alumino Silicate Ceramic
+irrelevant,5,| -- |--| --
+irrelevant,5,"Appearance | -- | Clear, colorless to slight yellowish liquid | --"
+irrelevant,5,"Metal content | -- | Zr: 9,80 - 10,20 % | ISO 4619"
+header,3,PROPERTY | VALUE
+irrelevant,5,Appearance | Light yellow to lemon yellow oily transparent liquid.
+specific_gravity,14,Specific Gravity D20 4 | 0.90 min.
+irrelevant,5,Distilling Volume (V/V) Boiling Range | 90% min
+irrelevant,5,170â„ƒ-225â„ƒ |
+irrelevant,5,Total Alcohol % | 65% min
+irrelevant,5,Moisture % | 1%max
+irrelevant,5,|
+irrelevant,5,Concentration of Pigment | 42%
+irrelevant,5,Form | Paste
+irrelevant,5,Colour | Wild Cherry
+irrelevant,5,Light Fastness* | Full shade : 7-8
+irrelevant,5,Acid Resistance* | 5
+irrelevant,5,Alkali Resistance* | 5
+irrelevant,5,Solvent Resistance* | 5
+irrelevant,5,-- | --
+irrelevant,5,Shade Name | Canister Code | C.I. No .of Pigment | Pigment Solids % | Total Solids +/- 5 % | Specific Gravity (kg/l) (+/- 0.025) | Finish on HG | Visco sity KU | Tinting Strength | Color Difference Delta E | -- | Weather Fastness | -- | Light Fastness | --
+irrelevant,5,-- | -- | -- | -- | -- | -- |--| -- | -- | FT | RT | FT | RT | FT | RT
+irrelevant,5,White | KX | PW 6 | 60 | 82 | 2.03 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Black | B | PBL 7 | 35 | 63 | 1.37 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Organic Yellow | AXX | PY 74 | 35 | 65 | 1.33 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 4-5 | 4 | 6-7 | 6
+irrelevant,5,Medium Yellow | T | PY 83 | 47 | 70 | 1.27 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 4-5 | 4 | 6-7 | 6
+irrelevant,5,Exterior Yellow | AN | PY 184 | 55 | 78 | 1.57 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 4-5 | 8 | 7-8
+irrelevant,5,Green | D | PG 7 | 45 | 70 | 1.39 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Blue | E | PB 15:1 | 35 | 70 | 1.38 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Organic Red | R | PR 188 + PV 19 | 35 | 65 | 1.32 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 4-5 | 4 | 6-7 | 6
+irrelevant,5,Exterior Red | RN | PR 255 | 40 | 70 | 1.39 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Magenta | V | PR 122 | 33 | 60 | 1.29 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 4-5 | 8 | 7-8
+irrelevant,5,Yellow Oxide | C | PY 42 | 60 | 82 | 1.83 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Red oxide | F | PR101 | 62 | 85 | 2.08 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Raw Umber | L | PBR7 | 47 | 70 | 1.47 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Brown oxide | I | PY 42 + |--|  |--|  |--|  |--|  |--|  |--|
+irrelevant,5,-- | -- | PR101+PBL 7 | 55 | 73 | 1.72 | Min 6 | 80 +/- 5 | 100 +/-2 | 0.8 | 0.5 | 5 | 5 | 8 | 8
+irrelevant,5,Appearance | Yellow Powder | --
+specific_gravity,14,Specific Gravity [g/cm ] 3 | 2.4 | DIN EN ISO 787-10
+irrelevant,5,Bulk Volume [l/kg] | 3.3 | DIN EN ISO 787-11
+irrelevant,5,Oil Absorption [g/100g] | 26 | DIN EN ISO 787-5
+irrelevant,5,Moisture [% max.] | 1.0 | DIN EN ISO 787-2
+irrelevant,5,FASTNESS PROPERTIES | -- | --
+irrelevant,5,Heat Stability [CÂ°] (Alkyd Melamine Stoving Enamel) | 200 | AA10/ATA/A297
+irrelevant,5,Acid Resistance | 5 | AA10/ATA/A275
+irrelevant,5,Alkali Resistance | 3 - 4 | AA10/ATA/A275
+irrelevant,5,Overpainting Fastness | 5 | AA10/ATA/A226
+irrelevant,5,Weather Resistance (2C - Acrylate) | 4 | AA10/ATA/A296
+irrelevant,5,Light Fastness (2C - Acrylate) | 7 - 8 | AA10/ATA/A315
+irrelevant,5,Powder Coatings | Recommended (max. 200 Â°C)
+irrelevant,5,Stoving Enamels | Recommended
+irrelevant,5,Industrial Coatings | Recommended
+irrelevant,5,| -- |
+irrelevant,5,Concrete | [/m2] | 0.25 - 0.5
+irrelevant,5,Plaster | [V/m2] | 0.5 - 1.0
+irrelevant,5,Sand-lime brick | [l/m2] | 0.4 - 0.7
+irrelevant,5,Brickwork | [l/m2] | 0.4 - 2.0
+irrelevant,5,Aerated concrete | [1/m2] | 0.5 - 2.0
+irrelevant,5,Cement fiberboard | [l/m2] | 0.1 - 0.3
+irrelevant,5,Natural stone | [l/m2] | 0.05 - 3.0
+header,3,Typical general characteristics | Inspection Method | Value
+irrelevant,5,"Appearance |--| colorless, hazy"
+irrelevant,5,Silane / siloxane content |--| approx. 100 %
+density,1,"Density at 25 Â°C | DIN 51757 | 1,05 g/cmÂ³"
+viscosity,2,"Viscosity, dynamic | DIN 51562 | 15 - 19 mPa.s"
+irrelevant,5,Flash point | DIN 51755 | 42 Â°C
+header,3,Property | Value | Unit | GAP
+mfft,6,MFFT | Â± 75 | Â°C | 0011
+density,1,Density 20 Â°C | Â± 1.04 | kg/l | 0006
+irrelevant,5,Free monomer | Max. 500 | ppm | 0118
+irrelevant,5,Preservative(s): |--|  |
+irrelevant,5,BIT (casno. 2634-33-5) | 0.046 | % | 0222
+header,3,Property | Range | Unit | GAP
+irrelevant,5,Appearance | milky white |--| 0059
+solid_content,13,Total solids w/w | 44 â€“ 46 | % | 0001
+ph,12,pH | 7.3 - 8.5 |--| 0016
+viscosity,2,Visc. Brookfield 25Â°C | Max. 300 | mPa.s | 0020
+irrelevant,5,"Chemical Name: | 2,2,4-Trimethyl-1,3-Pentanediol Diisobutyrate"
+irrelevant,5,Chemical Formula | C16H30O4
+irrelevant,5,Appearance | colorless transparent liquid
+irrelevant,5,"Content, (%) | â‰¥98.5"
+Acid,0,"Acid value, (mgKOH/g) | â‰¤0.3"
+irrelevant,5,(wt% as isobutyric acid) | â‰¤0.05
+irrelevant,5,"Water content, (wt%) | â‰¤0.1"
+irrelevant,5,"Color, (Pt-Co) | â‰¤30"
+irrelevant,5,|
+irrelevant,5,"Evaporation Rate, (n-butyl acetate=1) | 0.0004"
+irrelevant,5,"Boiling Point, (â„ƒ @760mm Hg) | 281"
+irrelevant,5,"Freezing Point, (â„ƒ) | -70"
+specific_gravity,14,"Specific Gravity, (g/ml @20â„ƒ) | 0.945"
+irrelevant,5,"Vapor Pressure, (Kpa @20â„ƒ) | â‰¤0.0001"
+irrelevant,5,"Refractive Index, (@20â„ƒ) | 1.43"
+irrelevant,5,"Solubility in water, (wt% @20â„ƒ) | 0.042"
+header,3,CTM* | Property | Unit | Result
+irrelevant,5,| Appearance |--| Milky White
+solid_content,13,0862A | Non Volatile Content | % | 38â€“44
+ph,12,0007A | pH |--| 4.0â€“5.5
+header,3,"Property | Typical Value, Units"
+irrelevant,5,General |
+moleuclar_wt,7,Molecular Weight | 110.11
+irrelevant,5,Empirical Formula | C6H6O2
+irrelevant,5,Appearance | Free-flowing white crystals
+irrelevant,5,Assay (Anhydrous basis) | 99.0-100.5 %
+irrelevant,5,Melting Point | 172-174 Â°C
+irrelevant,5,Water | 0.5 wt % max.
+irrelevant,5,Residue on ignition | 0.5 % max
+irrelevant,5,Solubility |
+irrelevant,5,"in Ethanol, @ 25Â°C | 36 wt %"
+irrelevant,5,"in Glycerin, @ 25Â°C | 16 wt %"
+irrelevant,5,"in Propylene Glycol, @ 25Â°C | 23 wt %"
+irrelevant,5,"in Water, @ 25Â°C | 7 wt %"
+header,3,Parameters | Pigment data | Test method
+irrelevant,5,Fe2O3 content [%] | 79 (Â±3.0) | ISO 1248 Method A
+irrelevant,5,Water soluble content [%] | <0.5 | ISO 787-3
+irrelevant,5,Oil absorption [g/100g] | 22 (Â±1) | ISO 787-5
+irrelevant,5,Particle shape | Lamellar | Electron micrographs
+particle_size,8,Predominant particle size [Î¼m] | 1.25 (Â±0.15) | ISO 13320-1
+density,1,Tamped density [g/ml] | 0.9 (Â±0.1) | ISO 787-11
+density,1,Density [g/ml] | 4.6 (Â±0.1) | ISO 787-10
+irrelevant,5,Moisture [%] | <1.0 | ISO 787-2
+ph,12,pH value | 8 (Â±2) | ISO 787-9
+irrelevant,5,Sieve residue (0.045 mm) [%] | <0.01 | ISO 787-7
+irrelevant,5,Î”E CIE Lab | <1.5 | ISO 787-1
+irrelevant,5,Relative tinting strength [%] | 100 (Â±5) | ISO 787-16
+header,3,Properties | Applications
+particle_size,8,Homogeneous particle size and distribution | Mortar and Concrete
+irrelevant,5,Lamellar pigment particles | Fertilizers
+irrelevant,5,Very low water soluble salts content | Asphalt
+irrelevant,5,High anticorrosive power and alkali resistance | Tiles
+irrelevant,5,High tinting strength and covering power | Bricks
+irrelevant,5,Excellent UV stability | Ceramics
+irrelevant,5,Resistance to high temperatures | Glass
+header,3,Property | UOM | Value | Test Method
+irrelevant,5,Moisture (160Â°C) | % | 3.5 max. | GRACE Q 239
+particle_size,8,Average Particle Size - MalvernÂ® MastersizerÂ® 2000 | m | 5.0 - 6.0 | GRACE Q 013
+irrelevant,5,Wet Screen Residue (> 25 m) | % | 0.01 max. | GRACE Q 004
+ph,12,pH (5% aqueous suspension) |--| 6.0 - 8.5 | GRACE Q 014
+irrelevant,5,Carbon Content | % | 6.0 â€“ 9.0 | GRACE Q 017
+header,3,Property | UOM | Value | Test Method
+irrelevant,5,SiO Content (dry basis) 2 | % | 99.0 | GRACE Q 271
+irrelevant,5,Pore Volume (H O) 2 | ml/g | 1.8 * | GRACE Q 092
+irrelevant,5,Oil Adsorption | g/100g | 300 | GRACE Q 015
+irrelevant,5,World Headquarters | Latin America | Europe | Asia/Pacific
+irrelevant,5,W. R. Grace & Co.-Conn. | Grace Brasil Ltda. | Grace GmbH & Co. KG | Grace China Ltd.
+irrelevant,5,"7500 Grace drive | Rua Albion, 229-10o andar, cj104 | In der Hollerhecke 1 | 1010 Huai Hai Zhong Road"
+irrelevant,5,"Columbia, Maryland 21044 USA | Lapa â€“ Sao Paulo â€“ SP/Brasil | 67547 Worms/Germany | 19th Floor, K Wah Centre"
+irrelevant,5,"Tel.: +1 410.531.4000 | Cep 05077 â€“ 130 | Tel: +49.6241.403.00 | Shanghai, 200031/China"
+irrelevant,5,NA Toll Free: +1 800.638.6014 | Tel: +55.11.3133.2704 | Fax: +49.6241.403.1211 | Tel: +86.21.3158.2888
+irrelevant,5,Fax: +1 410.531.4273 | Fax: +55.11.3133.2706 |--| Fax: +86.21.3158.2828
+header,3,Test and Test Condition | Limit | Unit
+irrelevant,5,Purity | 99.0 Min | WT%
+irrelevant,5,Water | 0.1 Max | WT%
+irrelevant,5,"Color, Pt-Co | 20 Max |"
+irrelevant,5,-- | -- | --
+header,3,Container Type | Conditions of Storage | Shelf Life | Deterioration Characteristics
+irrelevant,5,"Bulk | Keep containers tightly closed when not in use, Do not store in aluminum, Store below 90degF | 6 Months | Lowering of PH possible rise in - color on prolonged standing."
+irrelevant,5,-- | -- | -- | --
+irrelevant,5,"Drum | Keep containers tightly closed when not in use, Do not store in aluminum, Store below 90degF | 12Months | Lowering of PH possible rise in - color on prolonged standing."
+header,3,Property | Typical Values
+irrelevant,5,"Appearance | Opaque, white to off-white liquid"
+solid_content,13,"Solids, by weight, % | 55.0"
+density,1,"Density (g/ml), wet | 1.04"
+ph,12,pH | 8.2
+mfft,6,"Minimum Film Formation Temperature, (Â± 2ÂºC) | 0"
+viscosity,2,"Viscosity (Brookfield LV #2, 60 rpm), cps | < 500"
+irrelevant,5,Storage precautions | Protect from freezing
+irrelevant,5,ITEM | Color quartz sands
+irrelevant,5,CaCO3 | 90.80%
+irrelevant,5,MgCO3 | 8.70%
+irrelevant,5,Fe2O3 | 0.03%
+irrelevant,5,Al2O3 | 0.02%
+header,3,Property | Unit | Value
+particle_size,8,Particle size(Coulter) | mesh | 5-200
+density,1,Relatively density | g/ml | 2.6-2.8
+irrelevant,5,Melting point | â„ƒ | 880
+irrelevant,5,Surface Treatment | ------ | Color sands
+irrelevant,5,"Drying Loss(105â„ƒ,2hr) | % | â‰¤0.5"
+ph,12,"PH Value(20â„ƒ,50g/l water) | ------ | 6~8"
+header,3,Chemical and Physical Data | Typical Value
+irrelevant,5,Appearance | brown paste at 20Â°C
+density,1,Density | 865 kg/mÂ³ at 65Â°C
+irrelevant,5,Flash point | >150Â°C
+irrelevant,5,Melting point | 30-40Â°C
+viscosity,2,Viscosity | 80 mPa s at 60Â°C
+header,3,Parameter | Limits | Method
+irrelevant,5,Amine Number (total) | 115-130 mgKOH/g | VV/2.013
+irrelevant,5,Colour | max 10 Gardner | SC/2.001
+irrelevant,5,Neutralistion | 92-98% | VV/2.013
+irrelevant,5,Water content | max 1.0% | VE/4.003
+irrelevant,5,Appearance | translucent Off-White to White Liquid
+solid_content,13,Active solids | 20 %
+solid_content,13,Total solids | 20 %
+viscosity,2,"Brookfield Viscosity cps | < 6,000 (Brookfield RVT, spindle 4, 20 rpm, 25 Â°C)"
+specific_gravity,14,Specific Gravity | 1.03
+irrelevant,5,Solvent | water
+irrelevant,5,"Medium-viscosity, formulated polyamidoamine | -- | --"
+irrelevant,5,"Applications | In combination with liquid epoxy resins such as Araldite GY 250, PY 304 or GY 783, (R Aradur 223 is suitable for the production of cold-curing, solvent-free coatings, mastics and epoxy resin mortars. For application on steel or mineral substrates. Aradur 223 is particularly suitable in combination with the hardeners Aradur 43 and 46 if a longer working time at higher temperatures is desired. | --"
+irrelevant,5,"Properties | Used along with suitable epoxy resins, Aradur 223 presents â€¢ an extremely long working time (in solvent-free systems) â€¢ satisfactory curing properties above 15 Â°C â€¢ very good adhesion and flexibility â€¢ good level of anti-corrosion protection. | the following features:"
+header,3,Key data | Specified key data |
+irrelevant,5,-- | Aspect (visual) | clear liquid
+irrelevant,5,"-- | Colour (Gardner, ISO 4630) | â‰¤ 6"
+irrelevant,5,| Amine number (ISO 9702) | 325 - 355 [mg KOH/g]
+viscosity,2,"| Viscosity at 25 Â°C (Rotary viscosity, ISO 3219) | 80 - 180 [mPa s]"
+irrelevant,5,| Specified key data are individually checked throughout and guaranteed. |
+irrelevant,5,| Typical key data |
+irrelevant,5,| H + active equivalent | 115 - 130 [g/eq]
+density,1,| Density at 20 Â°C (ISO 1675) | 0.99 [g/cm3 ]
+irrelevant,5,"| Flash point (Pensky Martens,ISO 2719) | 110 [Â°C]"
+irrelevant,5,| Recommended mix ratio with Araldite GY 250 | 60 - 70 [g/100 g]
+irrelevant,5,"| Gel time (Tecam, 250 g / 23 Â°C) with Araldite GY 250/Aradur 223, 100:65 p.b.w. | 300 - 480 [min]"
+irrelevant,5,| As-supplied form | liquid
+irrelevant,5,| Odour | amine
+irrelevant,5,| Shelf life (at storage temperature between 2 - 40 Â°C) (see expiry date on original container) | several years
+irrelevant,5,"| Hazardous decomposition products (when disposed of in fire) | carbon monoxide, carbon dioxide, nitrogen oxides and other toxic gases and vapours"
+irrelevant,5,-- | Disposal | regular procedures approved by local authorities
+irrelevant,5,Physical State | â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.....â€¦Colorless Transparent liquid
+irrelevant,5,Odour â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.. | â€¦Characteristic
+density,1,Densityâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦0.87-0.88 |
+irrelevant,5,Refractive Index | â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦...â€¦â€¦â€¦.1.4650-1.4700
+irrelevant,5,Boiling Range (Â°C) | â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦... 150-160
+Acid,0,Acid Number â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦0.5 |
+irrelevant,5,Optical Rotationâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.+40-46Â° |
+irrelevant,5,Composition |
+irrelevant,5,a- pineneâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.95-97% |
+irrelevant,5,b- pineneâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦0.6 |
+irrelevant,5,Camphenâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.0.9 |
+irrelevant,5,Dipenteneâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦1.0 |
+irrelevant,5,p-cymolâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦0.3 |
+irrelevant,5,other terpenesâ€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..0.7 |
+header,3,Specifications | Method | Value
+irrelevant,5,Colour (Gardner) [undiluted] | ISO 4630 | max. 6
+viscosity,2,Viscosity at 25Â° C | DIN 53 019 | 300-400 mPa*s
+irrelevant,5,"OH-Content | RÃœTGERS-Method | 1,7-2,2 %"
+irrelevant,5,| Items | SNOWTEX 30
+irrelevant,5,1 | Appearance | Milky-white liquid
+solid_content,13,2 | Solid Content | 29.5%
+irrelevant,5,3 | Solid Volume | 55%
+ph,12,4 | pH | 8.0-10.0
+specific_gravity,14,5 | Specific gravity | 1.03
+viscosity,2,6 | Viscosity | Below 400cps
+particle_size,8,7 | Particle Size | 600nm
+header,3,PROPERTIES | UNITS | MICRON BARYTE 2050
+irrelevant,5,Brightness | % | 90 -94
+density,1,Bulk Density | Gm/litre | 1290-1370
+irrelevant,5,Oil Absorption | gm/100gm | 8-12
+irrelevant,5,Moisture (Ex-Work) | % | 0.0-0.2
+ph,12,pH (10% Aq.Slurry) | - | 8.5-9.5
+irrelevant,5,Residue on 500 mesh | % | 0.0 -0.2
+irrelevant,5,-- | -- | --
+irrelevant,5,Masstone | Tint | Product Code | Colorant Description | CI Pigment | Specific Gravity | % Composition by Weight | -- | -- | Light Fastness | -- | VOC*g/L
+irrelevant,5,-- | -- | -- | -- | -- | -- | Prime Pigment Solids | Vehicle Solids | Volatiles | Mass | Tint | --
+irrelevant,5,|--| 8100018 | Titanium White | PW 6 | 2.02 | 53.3 | 21.3 | 12.3 | 8 | 8 | 0
+irrelevant,5,|--| 8100422 | Magenta | PR 122 | 1.30 | 8.6 | 24.1 | 39.1 | 7 | 8 | 0
+irrelevant,5,|--| 8100825 | High Performance Red | Blend | 1.39 | 9.8 | 23.3 | 30.2 | 8 | 8 | 0
+irrelevant,5,|--| 8100836 | Organic Red | Blend | 1.31 | 11.1 | 27.1 | 34.8 | 8 | 8 | 0
+irrelevant,5,|--| 8101045 | Red Oxide | PR 101 | 1.97 | 57.4 | 22.3 | 17.3 | 8 | 8 | 0
+irrelevant,5,|--| 8101572 | Brown Oxide | Blend | 1.75 | 39.6 | 21.4 | 22.3 | 8 | 8 | 0
+irrelevant,5,|--| 8101810 | Yellow Oxide | PY 42 | 1.77 | 52.5 | 26.0 | 18.5 | 8 | 8 | 0
+irrelevant,5,|--| 8102009 | Raw Umber | PBr 7 | 1.52 | 22.5 | 23.8 | 27.3 | 8 | 8 | 0
+irrelevant,5,|--| 8102040 | Medium Yellow | Blend | 1.23 | 36.6 | 26.6 | 29.2 | 7 | 6 | 0
+irrelevant,5,|--| 8102501 | High Performance Yellow | Blend | 1.55 | 27.2 | 21.8 | 27.5 | 8 | 8 | 0
+irrelevant,5,|--| 8102551 | Organic Yellow | Blend | 1.32 | 16.4 | 26.1 | 30.7 | 7 | 6 | 0
+irrelevant,5,|--| 8105511 | Phthalo Green | PG 7 | 1.39 | 9.8 | 24.6 | 32.3 | 8 | 8 | 0
+irrelevant,5,|--| 8107214 | Phthalo Blue | PB 15:2 | 1.41 | 5.3 | 26.4 | 30.1 | 8 | 8 | 0
+irrelevant,5,|--| 8109907 | Black | PBk 7 | 1.34 | 6.9 | 23.7 | 37.1 | 8 | 8 | 0
+header,3,Test Name | Test Method | Lower Limit | Upper Limit
+irrelevant,5,"WEIGHT PER LITRE | First of all set the temperature of sample to 250C . Then, Tare the weight of weight per litre cup and its lid to zero on weighing balance.After that fill the Cup with preset temperature sample and place the lid on to the cup until it was properly closed and extra sample also flow from the hole of the cup. Wash the cup with the help of rag so that extra sample pored from the lid of cup completely removed. The Weigh the Cup filled with sample and Note the reading on weighing scale. | 0.98 | 1.02"
+viscosity,2,REDUCED VISCOSITY (Sec) | Thin the Paint As Paint : 1Part & F851-0111 (NC Thinner):2P (By volume and Check on B4 cup at 25 Degrees | 65 | 75
+irrelevant,5,-- | -- | -- | --
+irrelevant,5,"SMOOTHNESS TEST | Thin the Paint As Paint : 1 Part & F851-0111 (NC Thinner):2P (By volume) .Stir the sample to obtain a homogeneous mixture and leave to settle down bubbles in it. Pour the sample to glass panel which is held in Vertical postion till the glass panel is covered with sample. Leave the panel in vertical position in a rack and allow it to dry.After the panel dry, check the smoothness, clarity and bits free. | Must be clear | and grit free"
+header,3,Typical Property | Method | Unit | Value
+particle_size,8,"Particle size | Measured with ""Laser Diffraction Technique"" | Âµm | approx. 0.18"
+mfft,6,Minimum film forming temperature (MFFT) | DIN ISO 2115 | ËšC | 0
+tg,17,Glass transition temperature (Tg) | DIN 53 765; DSC; heating rate 10 K/min | ËšC | approx. 11
+density,1,Density | SS-ISO 1675 | g/cm3 | approx. 1.07
+irrelevant,5,"Film*Appearance |--| Slightly opaque, | soft, tough"
+irrelevant,5,Film hardness |--| Ks | approx. 10
+header,3,Specification | Method | Unit | Value
+solid_content,13,Solids content | DIN ISO 3251 2h; 105ËšC | % | 54 â€“ 56
+viscosity,2,| DIN EN ISO 2555; spindle nr.3; |--|
+viscosity,2,Brookfield viscosity | 20 rpm; 25ËšC; Brookfield viscometer RVT | mPa.s | 500 â€“ 2000
+ph,12,pH value | DIN ISO 976 |--| 4 â€“ 5
+header,3,äº§å“ç¼–å· PRODUCT NUMBER | è‰²æµ†åç§° COLORANT NAME | -- | é¢œæ–™ç´¢å¼•å· PIGMENT C.I. | æ¯”é‡ TYPICAL | %ä¸»ä½“é¢œæ–™ % PRIME PIGMENT | -- | %æº¶å‰‚å«é‡ % SOLVENTS | -- | %æ€»å›ºä½“ä»½ % TOTAL SOLIDS | -- | ç†è®ºVOC THEORETICAL VOC | --
+header,3,-- | -- | -- | -- | å…‹/æ¯«å‡ GMS./ML. | é‡é‡ BY WT. | ä½“ç§¯ BY VOL. | é‡é‡ BY WT. | ä½“ç§¯ BY VOL. | é‡é‡ BY WT. | ä½“ç§¯ BY VOL. | ç£…/åŠ ä»‘ LBS/GAL | å…‹/å‡ GMS./LIT.
+irrelevant,5,5113 | äºŒèŠ³åŸºé»„ | Diaryl Yellow | PY83 | 1.064 | 23.3 | 17.0 | 32.5 | 39.9 | 67.5 | 60.1 | 3.0 | 360
+irrelevant,5,5116 | é’’é…¸é“‹é»„ | Bismuth Vanadate Yellow | PY184 | 2.331 | 69.8 | 28.6 | 13.7 | 35.8 | 86.3 | 64.2 | 2.7 | 324
+irrelevant,5,5149 | è€æ™’çº¢ | DPP Red | PR254 | 1.152 | 43.1 | 34.3 | 37.8 | 48.9 | 62.2 | 51.1 | 3.6 | 432
+irrelevant,5,5166 | æœ‰æœºæ©™ | Organic Orange | P034 | 1.133 | 43.4 | 33.0 | 36.2 | 46.2 | 63.8 | 53.8 | 3.4 | 408
+irrelevant,5,"Surface treatment | Al,O3, SiO2, ZrO2"
+irrelevant,5,Volatile constituents at 105 â„ƒ /% | < 0.5
+irrelevant,5,"Residue, 45um /% | < 0.01"
+ph,12,pH | 6.0-9.0
+irrelevant,5,"Resistivity, . m | 2 80"
+irrelevant,5,"Oil absorption, g/100g | < 18"
+irrelevant,5,CIE L' | 2 98.0
+irrelevant,5,CIE b | < 1.0
+specific_gravity,14,"Specific gravity, g/cm3 | 4.1"
+header,3,Typical general characteristics | Inspection Method | Value
+irrelevant,5,"Appearance |--| milky, white"
+ph,12,pH-Value at 25 Â°C | Indicator strips | 8 - 9
+header,3,Characteristic | print only method | Specification | -- | Unit
+irrelevant,5,short description | -- | Lower | Upper | --
+solid_content,13,Solid content | _________________________________________________________________________________________________________________________________________________ PV06010 | 48 | 52 | %
+ph,12,"pH-value | PV06012 | 6,0 | 9,0 | nounit"
+header,3,Property | Typical Value | Unit | Method1
+solid_content,13,Non-Volatile Content | 70 Â± 1 | % |
+viscosity,2,Viscosity@ 25 degree C | Z1-Z3 | Gardner-Holdt |
+specific_gravity,14,Specific Gravity @ 25 degree C | 0.95 |--|
+Acid,0,Acid Value | 5-11 | mg KOH/ gm solids |
+irrelevant,5,Colour | 8 max | Gardner |
+irrelevant,5,"Clarity | Clear, free of particles |--|"
+irrelevant,5,Volatile Content | White Spirit |--|
+irrelevant,5,Compatibility Drying Oils | Limited |--|
+irrelevant,5,Compatibility Long Oil Alkyd | Complete |--|
+irrelevant,5,Compatibility Medium Oil Alkyd | Limited |--|
+irrelevant,5,Compatibility Short Oil Alkyd | None |--|
+irrelevant,5,Composition (non-volatile) Linseed Oil | 65 | % |
+irrelevant,5,Composition (non-volatile) Phthalic Anhydride | 24 | % |
+irrelevant,5,Solubility Ethanol | Soluble |--|
+irrelevant,5,Solubility Ethyl Acetate | Soluble |--|
+irrelevant,5,Solubility Mineral Spirit | Soluble |--|
+irrelevant,5,Solubility Toluene | Soluble |--|
+irrelevant,5,Solubility Xylene | Soluble |--|
+header,3,SALES SPECIFICATION |--| OTHER PROPERTIES |
+solid_content,13,"Non-volatile content, % ISO 3251 (150Â°C / 1gm / 1hr) | 64 - 66 | Volatile | MTO"
+viscosity,2,"Viscosity in CPS at 25Â°C (Brookfield Viscometer) | 1700 - 2300 | Flash point, Â°C (ISO 3679) | 37"
+irrelevant,5,"Colour, Gardner scale (ISO 4630) | 5 | Density at 20Â°C (ISO 2811) | 0.93"
+Acid,0,"Acid value, mg KOH/g (ISO 2114) | 5 - 10 | Type of fatty acid | Linoleic"
+header,3,ITEM | Color quartz sands
+irrelevant,5,CaCO3 | 98%
+irrelevant,5,CaO | 0.3%
+irrelevant,5,MgO | 0.21%
+irrelevant,5,MgCO3 | 0.60%
+header,3,Property | Unit | Grade: BJ30-40 | Grade: 50-60# | Grade: HS 40-80 | Grade: HS 80-120 | Grade :HS 150-200
+particle_size,8,Particle size | Âµm | 425-600 | 800-1430 | 180-300 | 125-180 | 75-212
+irrelevant,5,Pore Volume | Ml/g |--|  | 0.383 |--|
+irrelevant,5,Oil Absorption Value | g/100g |--|  | ------ |--|
+irrelevant,5,Surface Treatment | ------ |--|  | white sand |--|
+irrelevant,5,"Drying Loss(105â„ƒ,2hr) | % |--|  | â‰¤0.5 |--|"
+irrelevant,5,"Ignition Loss(1000â„ƒ,2hr) | % |--|  | â‰¤1.5 |--|"
+ph,12,"PH Value(20â„ƒ,50g/l water) | ------ |--|  | 6~8 |--|"
+irrelevant,5,SiO2 | 0.51%
+irrelevant,5,Fe2O3 | 0.075%
+irrelevant,5,Al2O3 | 0.052%
+irrelevant,5,Grav. tinct. Strength | [%] | 98-102
+density,1,Density | [g/cm3 ] | 1.15 - 1.22
+irrelevant,5,Shade | dH (*) | +/- 0.4
+irrelevant,5,Purity | dC (*) | +/- 0.6
+irrelevant,5,Viscosity | [Pa*s] | 0.3-1.3
+density,1,Density | [g/cm3 ] | 1.17
+ph,12,pH Value |--| ca. 8.0
+irrelevant,5,Pigment Content | [%] | 41(**)
+solid_content,13,Total Solid | [%] | 62
+irrelevant,5,Glycols | [%] | (Polyglycol included)
+irrelevant,5,Water | [%] | 38
+irrelevant,5,| to Light | to Weathering
+irrelevant,5,| Daylight (DIN EN ISO 105-B01) [Scale 1-8] | 12 month middle Europe (DIN EN ISO 105-A02) [Scale 1-5]
+irrelevant,5,Deep Shade | 7 | 4
+irrelevant,5,1/25 SD | 6-7 | 3
+header,3,TEST | METHOD | SPECIFICATION
+irrelevant,5,Appearance | Visual | Clear and free from suspended matter
+irrelevant,5,"Ethyl Acetate, wt % | G.C. | 99.7 Min"
+irrelevant,5,"Ethanol, wt % | G.C. | 0.2 Max"
+irrelevant,5,"Color, Pt-Co | ASTM D1209 | 10 Max"
+irrelevant,5,"Water, wt % | ASTM D1364 | 0.05 Max"
+Acid,0,"Acidity, wt % | ASTM D1613 | 0.01 Max"
+specific_gravity,14,Specific Gravity @ 20/20 ÂºC | ASTM D4052 | Report
+irrelevant,5,-- |--| --
+header,3,Property | Value Unit | Method
+irrelevant,5,Solvent | SOLVESSOÂ® 100 |
+tg,17,Glass transition temperature (Tg) | 24 | DIN EN ISO 11357-1
+solid_content,13,Solid content | 45 % | DIN EN ISO 3251
+viscosity,2,"Dynamic viscosity | 2,000 mPas | DIN EN ISO 3219 (Brookfield LVT, Sp3, 6 Upm)"
+viscosity,2,Viscosity number | 40 cm3/g | DIN EN ISO 1628-1
+moleuclar_wt,7,"Molecular weight (Mw) | 80,000 g/mol | DIN 55672-1"
+density,1,Density | 0.97 g/cm3 | DIN EN ISO 12185
+irrelevant,5,Flash point | 39 | DIN EN ISO 13736
+irrelevant,5,"Packaging | Steel drums with interior lacquer coating, 180 kg net"
+irrelevant,5,Storage | Keeps for 1 year if stored tightly closed in a cool place
+irrelevant,5,Application | Suggested Concentration % (w/w)
+irrelevant,5,Polymer Emulsions | 0.1â€“0.25
+irrelevant,5,Paints | 0.1â€“0.25
+irrelevant,5,Mineral Slurries | 0.1â€“0.25
+irrelevant,5,Adhesives | 0.1â€“0.25
+irrelevant,5,distributor) | Specification of the supplier | -- | -- | -- | -- | --
+header,3,Test | Method | Units | Average value | Lower limit | Upper limit | Remarks
+irrelevant,5,|--|  |--|  |--|
+header,3,Test | Method | Units | Average value | Lower limit | Upper limit | Remarks
+irrelevant,5,Gel Part on 150 Âµ |--| ppm |--| 0 | 50 |
+irrelevant,5,Gel part on 45 Âµ |--| ppm |--| 0 | 100 |
+ph,12,pH |--|  |--| 7.70 | 8.70 |
+solid_content,13,"Solids Content | % / Oven, 150Â°C, 0.6g, 20min | % / Oven, 150Â°C, 0.6g, 20min | 45.50 | 45.00 | 46.00 |"
+viscosity,2,"Viscosity Brookfield | cP / LV, Spindle #3, 60 rpm, 25Â°C | cP / LV, Spindle #3, 60 rpm, 25Â°C |--| 50 | 800 | broad specs due to technical limits supplier"
+irrelevant,5,"Contamination (powders) | 0.1-0.5 g direct plating on TSA and MEA plates | colonies/g | 0 | 0 | 100 for bacteria/yeast, 50 for funghi | BA MB SOP"
+irrelevant,5,-- | -- | -- | -- | -- | -- | 4 5S
+irrelevant,5,-- | -- | -- | -- | -- | -- | Bioburden
+irrelevant,5,-- | -- | -- | -- | -- | -- | powder
+irrelevant,5,-- | and incubation at | -- | -- | -- | -- | material
+irrelevant,5,-- | 30â°C for |--|  |--| -- |
+irrelevant,5,-- | bacteria and 23â°C for fungi |--|  |--|  |
+irrelevant,5,Contamination (liquids) | Dipslide or | colonies/g |--|  | 0 | BA MB SOP
+irrelevant,5,-- | direct plating on agar |--| 0 | 0 | -- | 1.2 - Agar Streak
+irrelevant,5,Architectural coatings |
+irrelevant,5,Wood and furniture coatings |
+irrelevant,5,Automotive coatings |
+irrelevant,5,Can coatings |
+irrelevant,5,Protective coatings |
+irrelevant,5,Leather finishes |
+irrelevant,5,Aqueous adhesives |--| --
+irrelevant,5,Epoxy systems |--|
+irrelevant,5,PUR systems |--|
+irrelevant,5,"Appearance | Golden, semi viscous liquid"
+irrelevant,5,Odour | Characteristic
+density,1,Density | ca. 1.060g/ml
+ph,12,pH | Ca. 7.50
+irrelevant,5,Active Content | Propiconazole 31.25g/L IPBC 31.25g/L Permethrin 31.25g/L
+irrelevant,5,-- | --
+irrelevant,5,Classification | H302 : Harmful if swallowed. H318 : Causes serious eye damage. H317 : May cause allergic reaction. H373 : May cause damage to organs (Larynx) through prolonged or repeated exposure. H410 : Very toxic to aquatic life with long lasting effects.
+irrelevant,5,Signal Word | Danger
+irrelevant,5,Pictograms |
+irrelevant,5,"Appearance | Clear, colourless liquid"
+irrelevant,5,Odour | Characteristic
+density,1,Density | ca. 1.005g/ml
+ph,12,pH | Ca. 7.00
+irrelevant,5,Active Content | Propiconazole 2.5g/L IPBC 2.5g/L Permethrin 2.5g/L
+irrelevant,5,-- | --
+irrelevant,5,Classification | H319 : Causes serious eye irritation.
+irrelevant,5,"-- | H410 : Very toxic to aquatic life with long lasting effects. EUH208 : Contains Propiconazole,"
+irrelevant,5,"-- | Permethrin, IPBC & 1,2- Benzisothiazol-3(2H)-one. May cause an allergic skin reaction."
+irrelevant,5,Signal Word | Warning
+irrelevant,5,Pictograms |
+irrelevant,5,Component | Amount
+irrelevant,5,Presta MUP D93 | 80 Litres
+irrelevant,5,"1,2-Benzisothiazol-3(2H)-one (10%) | 1.0 Kg"
+irrelevant,5,Silicon Anti-Foam | 0.2 Kg
+irrelevant,5,Water | 920 Litres
+irrelevant,5,-- | --
+irrelevant,5,Use | For use on timber in use class 1 â€“ 3 Indoor timbers. Outdoor timber not subject to weathering. Outdoor subject to weathering.* (*- Outdoor timber subject to weathering must be over coated. We recommend a weather proof undercoat and top coat).
+irrelevant,5,Application | Low pressure spray or brush application
+irrelevant,5,Application Rate | 160 - 200ml/m2 : Preventative fungicide & insecticide.
+irrelevant,5,-- | 300ml/m2 Preventative fungicide & curative insecticide.
+irrelevant,5,Coverage | 1L treats 3.3m2 to 6.25m 2 of timber
+irrelevant,5,"Drying | Product is touch dry in 1 hour depending on wood and ambient conditions. Unprotected persons and animals should be excluded from the area being treated and should remain excluded until surfaces are dry, which may vary depending on climatic conditions."
+irrelevant,5,Finish | None. As water or solvent
+irrelevant,5,Over-coating | Wood can be over coated after 24 hours if dry.
+irrelevant,5,Clean up | Remove most of product from brush with tissue and wash brush with soap and water
+irrelevant,5,Disposal | Waste product should be disposed of at a hazardous waste collection point. Empty container should be disposed of as normal household or industrial waste.
+irrelevant,5,Storage | Protect from frost and below 40o c. Store in a safe place away from food or feed stuffs.
+header,3,Property | Value | Unit | Method*
+solid_content,13,Solids Content | 50 | % |
+ph,12,"pH Value | 7,5 |--|"
+viscosity,2,Viscosity | 7000 | mPa s |
+tg,17,Glass Transition Temperature | 22 | Â°C |
+density,1,"Density | 1,04 | g/cmÂ³ |"
+particle_size,8,"Mean Particle Size | 0,1 | Âµm |"
+mfft,6,Minimum Film-Forming Temperature | 18 | Â°C |
+irrelevant,5,Tensile Strength | 8 | N/mmÂ² |
+header,3,Material | Quantity
+irrelevant,5,No records |
+header,3,Items | Spec. | Results | Test Method
+irrelevant,5,Lot_No |--| 1170215411 |
+irrelevant,5,Grade |--| A201A |
+irrelevant,5,Appearance | Colorless | Colorless | Visual
+irrelevant,5,"Purity, wt% | â‰§99.60 | 99.85 | GC Method"
+irrelevant,5,"Water, wt% | â‰¦0.300 | 0.111 | ASTM D 1364"
+irrelevant,5,"Color, APHA | â‰¦10 | 5 | ASTM D 1209"
+irrelevant,5,"Permanganate Test, minutes | >120 | >120 | ASTM D 1363"
+specific_gravity,14,Specific Gravity(20/20â„ƒ) | 0.790 - 0.793 | 0.791 | ASTM D 4052
+irrelevant,5,Water Solubility Water Solubility | Pass Pass | Pass Pass | ASTM D 1722 ASTM D 1722
+Acid,0,"Acidity(As Acetic Acid), wt% | â‰¦0.0020 | 0.0007 | ASTM D 1613"
+solid_content,13,"Non-volatile Matter, g/100 ml | â‰¦0.0020 | 0.0007 | ASTM D 1353"
+irrelevant,5,"Dist.Range,(including56.1â„ƒ) | â‰¦1.0 | 0.4 | ASTM D 1078"
+irrelevant,5,"Quantity |--| 17,970KG |"
+irrelevant,5,Grav. tinct. Strength | [%] | 95-105
+irrelevant,5,Shade | dH (*) | +/- 0.5
+irrelevant,5,Purity | dC (*) | +/- 0.8
+viscosity,2,Viscosity | [cP] | 1.0-2.5
+irrelevant,5,Pigment Content | [%] | 19
+solid_content,13,Total Solid | [%] | 45
+irrelevant,5,Solvent | [%] | 55
+irrelevant,5,Full Shade | 7-8d | 4d
+irrelevant,5,1/25 SD | 8 | 4-5
+irrelevant,5,Appearanceï¼š | White non-regular flake
+irrelevant,5,Odourï¼š | Of isopropanol
+irrelevant,5,Specific weight (g/cm3) | 1.65~1.67 (in water)
+irrelevant,5,Volatile content (wt%) | 33~37%
+solid_content,13,Solids content(wt%) | 63~67%
+solid_content,13,Solids content (Volumn %) | 50~60%
+irrelevant,5,VOC content(wt%) | 28~32%
+irrelevant,5,Water content(wt%) | â‰¦ 5%
+irrelevant,5,Nitrogen content(%) | 11.5~12.2%
+irrelevant,5,Ignition point (Â°C) | â‰§ 180â„ƒ
+header,3,Specification | Viscosity (sec) | Acidity (%) | Packaging
+irrelevant,5,RS 1/32 sec(10-15 cps) | Below 1.0 | Below 0.05% | 120 kg
+irrelevant,5,RS1/16 sec | 1.0~1.6 | Below 0.05% | 120 kg
+irrelevant,5,RS 1/8 sec | 1.6~2.9 | Below 0.04% | 120 kg
+irrelevant,5,RS 18-25 cps | 1.6~2.2 | Below 0.04% | 120 kg
+irrelevant,5,RS 30-35 cps | 2.65~3.1 | Below 0.04% | 120 kg
+irrelevant,5,RS 1/4 sec | 3.0~5.9 | Below 0.04% | 120 kg
+irrelevant,5,RS 1/4 H sec | 6.0~9.0 | Below 0.04% | 120 kg
+irrelevant,5,RS 1/2 sec | 3.0~5.0 | Below 0.03% | 120 kg
+irrelevant,5,RS 1 sec | 5.1~9.0 | Below 0.03% | 120 kg
+irrelevant,5,RS 5~6 sec | 4.5~6.5 | Below 0.03% | 100 kg
+irrelevant,5,RS 10~15 sec | 10~15 | Below 0.03% | 100 kg
+irrelevant,5,RS 15~20 sec | 15~20 | Below 0.03% | 100 kg
+irrelevant,5,RS 30~40 sec | 30~40 | Below 0.03% | 100 kg
+irrelevant,5,RS 60~80 sec | 60~80 | Below 0.03% | 100 kg
+irrelevant,5,RS 120 sec | 110~140 | Below 0.03% | 100 kg
+irrelevant,5,RS 150 sec | 140~170 | Below 0.03% | 100 kg
+irrelevant,5,RS 300 sec | 220~350 | Below 0.03% | 100 kg
+irrelevant,5,RS 500 sec | 450~550 | Below 0.03% | 100 kg
+irrelevant,5,RS 800 sec | 600~1000 | Below 0.03% | 100 kg
+irrelevant,5,RS 1200 sec | 1000~1500 | Below 0.03% | 100 kg
+irrelevant,5,RS 2000 sec | 1500~2400 | Below 0.03% | 100 kg
+header,3,Grades | Application
+irrelevant,5,RS 1/32â€ (10-15 cps) | Lacquers for wood and paper where the
+irrelevant,5,RS 1/16â€ | highest solid content is desired.
+irrelevant,5,RS 1/8â€ |
+irrelevant,5,RS18-25cps | --
+irrelevant,5,"RS 30-35 cps | Lacquers for wood, paper and toiletry where high solid content is called for, e.g."
+irrelevant,5,RS 1/4â€ | --
+irrelevant,5,"RS 1/4â€H | spraying lacquers, wood finish, paper coating and nail polishes."
+irrelevant,5,"RS 1/2â€ | Widely used in low viscosity coating material. Specifically used in car coatings, furniture, wooden articles, pencil & paper coatings, nail polishes, adhesive agent and raw material of printing ink."
+irrelevant,5,-- | --
+irrelevant,5,-- | When used in spray painting the hardness is adequate and long lasting.
+irrelevant,5,"RS 1â€ | Application is similar to the 1/2â€, more durability and higher viscosity"
+irrelevant,5,"RS 5â€~ 6â€ | finishes for leather, pharmaceutical"
+irrelevant,5,"RS 10â€~15â€ | collodions, protective finishes for metal,"
+irrelevant,5,RS 15â€~20â€ | fabric and leather.
+irrelevant,5,RS 30â€~40â€ |
+irrelevant,5,RS 60â€~80â€ | For higher viscosity painting and coating
+irrelevant,5,"RS 120â€ ã€RS 150â€ | material mostly used on leather, metal,"
+irrelevant,5,"RS 300â€ | wooden article lacquers, also used on wax"
+irrelevant,5,"RS 500â€ | paper, photo filmï¼Œfluorescent light coating"
+irrelevant,5,RS 800â€ | and glue agents.
+irrelevant,5,RS1200â€ |
+irrelevant,5,RS 2000â€ |
+header,3,NAME OF INDEX | SPECIFICATIONS
+irrelevant,5,"Alcohol content (chemical method: dehydration), % | 22 min."
+irrelevant,5,-- |
+irrelevant,5,Appearance | Clear liquid
+irrelevant,5,Color | From colorless to pale yellow
+irrelevant,5,Refractive Index at 25Â°C | 1.4700 â€“ 1.4800
+irrelevant,5,"Water, % | 1% max."
+specific_gravity,14,Specific gravity (20 deg C) | 0.8600-0.8800
+Acid,0,"Acid Value, max | 1.0"
+irrelevant,5,Miscibility | Miscible in almost normally solvent.
+irrelevant,5,-- | Immiscible in water.
+irrelevant,5,Ash Content | Nil
+header,3,Property | Value | -- | Units | Method SBM * | ISO
+solid_content,13,Non-volatileså›ºä½“ä»½ | 59 â€“ 61 | -- | % | 001G** | 3251
+Acid,0,Acid value (as such) | 2.0 â€“ 5.0 | -- | mgKOH/g | 303A | 3682
+irrelevant,5,é…¸å€¼ï¼ˆä¾›åº”å½¢å¼ï¼‰ |--| -- |--|  |
+viscosity,2,"Viscosity (25Â°C, 250 s-1 ) | 7â€“ 12 | -- | Pa.s | 012J | 3219"
+irrelevant,5,é»åº¦ |--|  |--|  |
+irrelevant,5,Colour (Lico 100)è‰²æ³½ | Max. 100 |--| APHA | 008F | 6271
+irrelevant,5,Aliphatics AromaticsèŠ³é¦™æ— | Toluene | -- | ç”²è‹¯ | -- |--| partly dilutable | å¯ç¨€é‡Š
+irrelevant,5,| Xylene | -- | äºŒç”²è‹¯ | -- |--| dilutable | å¯ç¨€é‡Š
+irrelevant,5,| Solvesso 100 | -- | 100# | æº¶å‰‚æ²¹ |--| dilutable | å¯ç¨€é‡Š
+irrelevant,5,Esters é…¯ç±» | ethyl | acetate | é†‹é…¸ | ä¹™é…¯ |--| dilutable | å¯ç¨€é‡Š
+irrelevant,5,| butyl acetate | -- | é†‹é…¸ | ä¸é…¯ |--| dilutable | å¯ç¨€é‡Š
+irrelevant,5,Ketones é…®ç±» | acetone |--| ä¸™é…® |--|  | dilutable | å¯ç¨€é‡Š
+irrelevant,5,| Methyl ethyl ketoneç”²ä¹™ | -- | -- | é…® |--| dilutable | å¯ç¨€é‡Š
+irrelevant,5,Alcohol-esters é†‡é†šç±» | CAC |--| ä¹™äºŒ | é†‡ä¹™é†šé†‹ | é…¸é…¯ | dilutable | å¯ç¨€é‡Š
+irrelevant,5,| PMA |--| ä¸™äºŒ | é†‡ç”²é†šé†‹ | é…¸é…¯ | dilutable | å¯ç¨€é‡Š
+irrelevant,5,Compatibilityç›¸å®¹æ€§ |--|  |--|  |--|  |
+irrelevant,5,% Tires 2850 |--| 90 | 75 | 50 | 25 | 10 |
+irrelevant,5,% of other material |--| 10 | 25 | 50 | 75 | 90 | Supplier
+irrelevant,5,Short oil alkydsçŸ­ æ²¹ é†‡ é…¸ |--|  |--|  |--|  |
+irrelevant,5,Rhodene H41A |--| - | - | - | - | - |
+irrelevant,5,Tires 2804 |--| - | - | + | + | + |
+irrelevant,5,Tires 2848 |--| + | + | + | + | + |
+irrelevant,5,Acrylic resinsä¸™ çƒ¯ é…¸ æ ‘ è„‚ |--|  |--|  |--|  |
+irrelevant,5,Tires 213 |--| + | + | + | + | + |
+irrelevant,5,Tires 4747 |--| + | + | + | + | + |
+irrelevant,5,Tires 4702 |--| + | + | + | + | + |
+irrelevant,5,Tires 2851 |--| + | + | + | + | + |
+irrelevant,5,Tires 2854 |--| + | + | + | + | + |
+irrelevant,5,Tires 4078 |--| + | + | + | + | + |
+irrelevant,5,Tires 4089 |--| + | + | + | + | + |
+irrelevant,5,Tires 4095 |--| - | - | - | - | - |
+irrelevant,5,AC 6200 |--| + | + | + | + | + |
+irrelevant,5,Rhodene H56C |--| - | - | - | - | - |
+irrelevant,5,Setalux 1184 SS-51 |--| + | + | + | + | + |
+irrelevant,5,Setalux 17-1261 XX-51 |--| + | + | + | + | + |
+irrelevant,5,Other materialså…¶å®ƒ |--|  |--|  |--|  |
+irrelevant,5,Desmodur L75 |--| + | + | + |--|  | Bayer AG
+irrelevant,5,Desmodur N 75 |--| + | + | + |--|  | Bayer AG
+irrelevant,5,Desmodur N 3390 |--| + | + | + |--|  | Bayer AG
+irrelevant,5,CAB 551-0.2 (20% in butyl acetate) | -- | + | + | + |--|  | Eastman Chemicals
+irrelevant,5,CAB 381-0.5 (20% in butyl acetate) | -- | + | + | + |--|  | Eastman Chemicals
+irrelevant,5,CAB 381-20 (20% in butyl acetate) | -- | + | + | + |--|  | Eastman Chemicals
+irrelevant,5,UCAR Vinyl Resin VAGH | -- | + | + | + |--|  | Union Carbide
+irrelevant,5,UCAR Vinyl Resin VROH | -- | + | + | + |--|  | Union Carbide
+irrelevant,5,Nitrocellulose Â½ s |--| + | + | + |--|  | Hagedorn AG
+header,3,Property | Value Unit | Method STM* | ISO
+Acid,0,Acid value (as such) | max. 6.7 mg KOH/g | 303A | 3682
+irrelevant,5,Appearance | Clear and clean | 017A |
+irrelevant,5,Colour GARDNER (Lico) | max. 4.5 Gardner | 008E | 4630
+solid_content,13,Non-Volatiles | 63 - 67 % | 001G | 3251
+viscosity,2,"Viscosity (23Â°C,100 s-1) | 2.0 - 3.3 Pa.s | 012J | 3219"
+header,3,Materials | Pounds | Gallons
+irrelevant,5,Water | 707.0 | 84.9
+irrelevant,5,Laponite3 RD | 10.7 | 0.5
+irrelevant,5,Disperse at 1000 rpm for 10 minutes |--|
+irrelevant,5,Aqualon4 CMC 12M8 | 4.8 | 0.4
+irrelevant,5,Add slowly under agitation; disperse at 1500 rpm for 15 minutes | -- | --
+irrelevant,5,Slow rpm to 1000 before adding the remaining materials | -- | --
+irrelevant,5,Propylene glycol | 15.5 | 1.8
+irrelevant,5,Dowanol2 DPM | 7.9 | 1.0
+irrelevant,5,Irgasperse5 Yellow 2R-U | 4.2 | 0.5
+irrelevant,5,Irgasperse Red G-U | 2.6 | 0.3
+irrelevant,5,Tint-Ayd6 CW 5509 Burnt Umber | 27.2 | 2.3
+irrelevant,5,Aqua-Chem7 896-9901 Lamp Black | 3.3 | 0.4
+irrelevant,5,JoncrylÂ® 95 | 68.1 | 7.8
+irrelevant,5,Nuosept8 95 | 1.5 | 0.2
+irrelevant,5,TOTAL | 852.8 | 100.00
+irrelevant,5,Formulation Attributes: |--|
+solid_content,13,Solids | 6.3% by weight | 4.0% by volume
+density,1,Density | 8.53 lbs/gal |
+irrelevant,5,VOC (calculated) | 414 g/l | 3.2 lbs/gal
+viscosity,2,"viscosity at 20 Â°C (68 Â°F) (DIN 53018/53019) | 6,300 mPa. s"
+density,1,density at 20 Â°C (68 Â°F) (DIN 51757) | 0.96 â€“ 1.00 g/cmÂ³
+irrelevant,5,"flash point (84/449/EEC, A. 9) | 95 â€“ 125 Â°C (203 â€“ 257 Â°F)"
+irrelevant,5,clear coats | 0.5 %
+irrelevant,5,semi-transparent | 0.5 â€“ 1.0 %
+irrelevant,5,opaque/solid-shade | 1.0 â€“ 2.0 %
+irrelevant,5,Grav. tinct. Strength | [%] | 95-105
+irrelevant,5,Shade | dH (*) | +/- 0.5
+irrelevant,5,Purity | dC (*) | +/- 0.8
+viscosity,2,Viscosity | [cP] | 1.0-2.5
+irrelevant,5,Pigment Content | [%] | 64
+solid_content,13,Total Solid | [%] | 80
+irrelevant,5,Solvent | [%] | 20
+irrelevant,5,General Description | Naturally occurring magnesium calcium carbonate in the form of dry particles:
+irrelevant,5,Appearance | As per standard sample
+irrelevant,5,Colour in MTO | As per standard Sample
+irrelevant,5,Volatile Matter | Not more than 1.0 %
+irrelevant,5,Oil Absorption | 10 - 20 ml/100gms.
+irrelevant,5,Water Soluble Matter | Not more than 0.5%. Reaction of the aqueous extract not more than 0.1% as H2SO4 or Na2CO3
+irrelevant,5,Coarse Particles | Nil retention on 30 mesh &
+irrelevant,5,"Content | Max 20 % retention on 40 mesh, Min 70% retention on 60 mesh, 100% retention on 80 mesh B.S. Sieve"
+solid_content,13,solids | 20% ~
+density,1,density at 20Â°C (68 Â°F) | 1 g/cm3 ~
+viscosity,2,Brookfield viscosity at 23 Â°C (73 Â°F) | 600 mPaÂ·s ~
+irrelevant,5,ITEM | Color quartz sands
+irrelevant,5,CaCO3 | 90.80%
+irrelevant,5,MgCO3 | 8.70%
+irrelevant,5,Fe2O3 | 0.03%
+irrelevant,5,Al2O3 | 0.02%
+header,3,Property | Unit | Value
+particle_size,8,Particle size(Coulter) | mesh | 5-200
+density,1,Relatively density | g/ml | 2.6-2.8
+irrelevant,5,Melting point | â„ƒ | 880
+irrelevant,5,Surface Treatment | ------ | Color sands
+irrelevant,5,"Drying Loss(105â„ƒ,2hr) | % | â‰¤0.5"
+ph,12,"PH Value(20â„ƒ,50g/l water) | ------ | 6~8"
+irrelevant,5,ITEM | Color quartz sands
+irrelevant,5,-- | --
+irrelevant,5,Dolomite | 99.5%-100%
+irrelevant,5,Non-hazardous pigment | 0-0.5%
+irrelevant,5,|
+header,3,Property | Unit | Value
+particle_size,8,"Particle Size | 0.5mm-1mm,% | >95"
+particle_size,8,Particle Size | â‰¤10um | <0.1
+irrelevant,5,Pore Volume | ml/g | 0.383
+irrelevant,5,Surface Treatment | ------ | colored sand
+irrelevant,5,"Drying Loss(105â„ƒ, 2hr) | % | â‰¤1"
+irrelevant,5,"Ignition Loss(1000â„ƒ, 2hr) | % | â‰¤2"
+ph,12,"PH Value(20â„ƒ, 50g/l water) | ------ | 6~8"
+header,3,Test | Specification
+ph,12,pH | 5.0 â€“ 7.0
+viscosity,2,Viscosity RVT SP3/20 rpm (mPaÂ·s) | 500 - 2000
+irrelevant,5,Microbiological evaluation TVC (CFU/ml) | â‰¤ 300
+irrelevant,5,Defoaming performance (s) | â‰¤ 30
+irrelevant,5,"Appearance | Off-white, free from extraneous matter"
+irrelevant,5,Oiling | Pass
+solid_content,13,Non-volatile content 6min/100% (%) | 15.5 â€“ 18.5
+irrelevant,5,Dilutability 10% | â‰¤ 1
+particle_size,8,Particle size MSS D(v.9) (Âµm) | â‰¤ 50.00
+irrelevant,5,"Warranty Characteristics â€“ the following properties are warranted to meet the indicated limits, but lot acceptance tests are not performed | --"
+irrelevant,5,Surface oil 15min/1600rpm (%) | 0.0 â€“ 0.1
+irrelevant,5,Cream 15min/1600rpm (%) | 0.0 â€“ 0.1
+irrelevant,5,Settling 15min/1600rpm (%) | 0.0 â€“ 0.1
+irrelevant,5,Contamination 15min/1600rpm (%) | 0.0 â€“ 0.1
+irrelevant,5,|
+irrelevant,5,Colour Index of the Basic pigment: | Pigment Yellow 42 No. 77492
+irrelevant,5,Coloristical Properties |
+irrelevant,5,Tinctorial Strength: | 97 ï¼ 103 %
+irrelevant,5,Shade: | â–³ H = Â±0.5 ( CIELAB-units )
+irrelevant,5,Shade Purity: | â–³ C = Â±0.8 ( CIELAB-units )
+viscosity,2,Viscosity: | 0.5 â€“ 2.0 Pa . S
+irrelevant,5,Totals | 1000.0 | 774.5 | 35.0%
+irrelevant,5,Totals | 999.0 | 780.0 | 35.0%
+irrelevant,5,Temperature (up to 230 °C) | 1 min. | resistant | resistant
+irrelevant,5,Temperature (up to 175 °C) | 5 min. | resistant | resistant
+header,3,Property | Values max. 20 | Test method
+irrelevant,5,Granular size in mm | 0.1 - 0.3 | 0.25 - 0.5 | 0.5 - 1 | - - | 1 - 2 | 2 - 4 | 0.04 - 0.125 | 0.5 - 1.25 | - -
+irrelevant,5,Particle shape | - - |  | - - |  | spherical grain | - - | - - | - - | - - | - - |
+irrelevant,5,Peak temperature | 104 - 127 | °C | 2625
+header,3,| PropylTex 100S | PropylTex 140S | PropylTex 200S | PropylTex 200SF
+irrelevant,5,Ignition temperature: | approx. 365 ℃ (DIN 51794)
+header,3,Property  | Unit  | Grade: 6#  | Grade:7#  | Grade :JingBai 8#
+header,3,Crt. No. | Sort [mm]
+header,3, | Especificación
